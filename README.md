@@ -12,7 +12,7 @@
 
 ### 目录
 
-> - [1_5 **numpy的简单使用**](1_5 numpy.ipynb)
-> - [1_6 **matplotlib的简单使用**](1_6 matplotlib.ipynb)
-> - [2 **感知机**](2 perceptron.ipynb)
-> - [3 **神经网络**](3 Neural Networks.ipynb)
+> - [1.5 **numpy的简单使用**](1_5.numpy.ipynb)
+> - [1.6 **matplotlib的简单使用**](1_6.matplotlib.ipynb)
+> - [2 **感知机**](2.perceptron.ipynb)
+> - [3 **神经网络**](3.NeuralNetworks.ipynb)
