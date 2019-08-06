@@ -18,5 +18,6 @@
 > - [3 **神经网络**](3.NeuralNetworks.ipynb)
 > - [4 **神经网络的学习**](4.NeuralNetworksLearning.ipynb)
 > - [5 **误差反向传播法**](5.ErrorBackPropagation.ipynb)
+> - [6 **与学习相关的技巧**](6.SkillsAboutLearning.ipynb)
 
 <img src="./imgs/cover.png"></img>
