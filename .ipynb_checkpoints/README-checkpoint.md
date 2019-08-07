@@ -20,5 +20,6 @@
 > - [5 **误差反向传播法**](5.ErrorBackPropagation.ipynb)
 > - [6 **与学习相关的技巧**](6.SkillsAboutLearning.ipynb)
 > - [7 **卷积神经网络**](7.ConvolutionalNeuralNetwork.ipynb)
+> - [8 **深度学习**](8.DeepLearning.ipynb)
 
 <img src="./imgs/cover.png"></img>
